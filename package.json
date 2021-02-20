@@ -1,6 +1,6 @@
 {
   "name": "proffix_rest_api_request_sammlung",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "Dies_ist_eine_Request_Sammlung_der_PROFFIX_REST_API_welche_das_PROFFIX_REST_API_Entwicklerhandbuch_unter__httpswww_proffix_netentwicklerrestapihandbuch_httpswww_proffix_netentwicklerrestapihandbuch_ergnzt_",
   "license": "Unlicense",
   "main": "src/index.js",
@@ -14,8 +14,8 @@
     "superagent": "3.7.0"
   },
   "devDependencies": {
+    "expect.js": "~0.3.1",
     "mocha": "~2.3.4",
-    "sinon": "1.17.3",
-    "expect.js": "~0.3.1"
+    "sinon": "1.17.3"
   }
 }
