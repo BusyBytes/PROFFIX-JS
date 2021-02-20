@@ -1,0 +1,45 @@
+# ProffixRestApiRequestSammlung.Installation1
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**installationNr** | **Number** |  | 
+**standort** | [**Standort2**](Standort2.md) |  | [optional] 
+**betreueradresse** | **String** |  | [optional] 
+**externadresse** | **String** |  | [optional] 
+**prioritaet** | [**Prioritaet7**](Prioritaet7.md) |  | [optional] 
+**artikel** | **String** |  | [optional] 
+**bezeichnung1** | **String** |  | [optional] 
+**bezeichnung2** | **String** |  | [optional] 
+**bezeichnung3** | **String** |  | [optional] 
+**bezeichnung4** | **String** |  | [optional] 
+**bezeichnung5** | **String** |  | [optional] 
+**gewicht** | **Number** |  | [optional] 
+**seriennummer** | **String** |  | [optional] 
+**konfigurationsID** | **String** |  | [optional] 
+**produktNr** | **String** |  | [optional] 
+**installationstermin** | **String** |  | [optional] 
+**garantieende** | **String** |  | [optional] 
+**garantiezusatz** | **String** |  | [optional] 
+**dokumentNr** | **Number** |  | [optional] 
+**auftrag** | [**Auftrag4**](Auftrag4.md) |  | [optional] 
+**vertragstyp** | [**Vertragstyp2**](Vertragstyp2.md) |  | [optional] 
+**herstellervertrag** | **String** |  | [optional] 
+**suchfeld** | **String** |  | [optional] 
+**artikelklasse** | **String** |  | [optional] 
+**artikelgruppe** | **String** |  | [optional] 
+**artikeluntergruppe** | **String** |  | [optional] 
+**menge** | **Number** |  | [optional] 
+**anlage** | **String** |  | [optional] 
+**inhaber** | **String** |  | [optional] 
+**istLagerinstallation** | **Boolean** |  | [optional] 
+**geloescht** | **Boolean** |  | [optional] 
+**global** | **Boolean** |  | [optional] 
+**standard** | **Boolean** |  | [optional] 
+**erstelltAm** | **String** |  | [optional] 
+**erstelltVon** | **String** |  | [optional] 
+**geaendertAm** | **String** |  | [optional] 
+**geaendertVon** | **String** |  | [optional] 
+**zusatzfelder** | **Object** |  | [optional] 
+
+
